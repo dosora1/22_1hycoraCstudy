@@ -13,28 +13,94 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\ch1">
+      <UniqueIdentifier>{81d11860-f5ce-4270-a16c-4babb79ca6a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch2">
+      <UniqueIdentifier>{6d212117-644e-444d-9b6c-427bd6d92281}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch3">
+      <UniqueIdentifier>{22527f55-6510-4f03-86a3-c84a49d4eb23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch4">
+      <UniqueIdentifier>{11da965a-84ec-436e-8ac8-2a6d40d7ea3d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1-0.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ch1</Filter>
     </ClCompile>
     <ClCompile Include="1-1.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ch1</Filter>
     </ClCompile>
     <ClCompile Include="2-0.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ch1</Filter>
     </ClCompile>
     <ClCompile Include="2-1.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ch1</Filter>
     </ClCompile>
     <ClCompile Include="2-2.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ch1</Filter>
     </ClCompile>
     <ClCompile Include="2-3.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ch1</Filter>
     </ClCompile>
-    <ClCompile Include="e.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="2_1-0.c">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="2_1-1.c">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="2_2-0.c">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="2_2-1.c">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="2_3-0.c">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="2_3-1.c">
+      <Filter>소스 파일\ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="3_0.c">
+      <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="3_1-0.c">
+      <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="3_2-1.c">
+      <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="3_2-0.c">
+      <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="3_3-0.c">
+      <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="3_1-1.c">
+      <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="3_3-1.c">
+      <Filter>소스 파일\ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="4_1.c">
+      <Filter>소스 파일\ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="4_2.c">
+      <Filter>소스 파일\ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="4_3.c">
+      <Filter>소스 파일\ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="4_4.c">
+      <Filter>소스 파일\ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="4_5.c">
+      <Filter>소스 파일\ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="4_6.c">
+      <Filter>소스 파일\ch4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
